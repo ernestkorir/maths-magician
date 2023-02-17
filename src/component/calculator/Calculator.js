@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Button from './Button';
+import Button from '../Button';
 
 const operators = ['÷', 'x', '-', '+', '='];
 const digits = ['AC', '+/-', '%', '7', '8', '9', '4', '5', '6', '1', '2', '3', '0', '.'];
