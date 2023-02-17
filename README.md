@@ -139,17 +139,12 @@ Install this project with:
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+npm start
 
 ### Run tests
 
 To run tests, run the following command:
+Coming soon
 
 <!--
 Example command:
