@@ -5,27 +5,27 @@ import './Quotes.css';
 const Quotes = () => {
   const randomQuotes = [
     {
-      quote: 'The essence of mathematics resides in its freedom.',
+      quote: 'Nature hates calculators',
       id: uuidv4,
-      creator: 'Georg Cantor',
+      creator: 'Ralph Waldo Emerson',
     },
     {
-      quote: 'Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers.',
+      quote: '"Calculators can only calculate - they cannot do mathematics." ~ John A. Van de Walle',
       id: uuidv4,
-      creator: 'Shakuntala Devi',
+      creator: 'John A. Van de Walle',
     },
     {
-      quote: 'Mathematics is the most beautiful and most powerful creation of the human spirit.',
+      quote: 'I am always crunching numbers, so my calculator watch is a must.',
       id: uuidv4,
-      creator: 'Stefan Banach',
+      creator: 'David Neeleman',
     },
     {
-      quote: 'Mathematics as an expression of the human mind reflects the active will, the contemplative reason, and the desire for aesthetic perfection. Its basic elements are logic and intuition, analysis and construction, generality and individuality.',
+      quote: '"A businessman is a hybrid of a dancer and a calculator." ~ Paul Valery',
       id: uuidv4,
-      creator: 'Richard Courant',
+      creator: 'Paul Valery',
     },
     {
-      quote: 'As far as the laws of mathematics refer to reality, they are not certain, and as far as they are certain, they do not refer to reality.',
+      quote: 'One who scorns the power of intuition will never rise above the ranks of journeyman calculator.',
       id: uuidv4,
       creator: 'Albert Einstein',
     },
